@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116419682137",
+    "project_id": "dbjimmy-abdb2",
+    "storage_bucket": "dbjimmy-abdb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116419682137:android:5493b52d8934bbbdf97648",
+        "android_client_info": {
+          "package_name": "com.example.examenreposicionjc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116419682137-6gjt2p9fbog08ml9tlv1jqcdd2h4j45e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3crOtH76c37xGCNX4rtE8dJ01QtA1yls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116419682137-6gjt2p9fbog08ml9tlv1jqcdd2h4j45e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
